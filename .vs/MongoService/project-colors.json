@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3e2fbec1-ed9d-4b42-9ad4-6098d0f237d8": {
+      "ProjectGuid": "3e2fbec1-ed9d-4b42-9ad4-6098d0f237d8",
+      "DisplayName": "MongoService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
